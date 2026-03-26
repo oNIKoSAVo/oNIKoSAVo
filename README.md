@@ -1,6 +1,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=oNIKoSAVo)
 
-# 👋 Hi, I'm Nikolay Savchenko - Full-stack Python Developer
+# 👋 Hi, I'm Nikolay Savchenko - Full-stack Developer
 
 I have 4+ years of commercial experience in software development with a strong background in backend development.
 
