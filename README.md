@@ -1,5 +1,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=oNIKoSAVo)
 
+[![Stats](https://github-readme-stats-fast.vercel.app/api?username=NikKovIos&show_icons=true&include_all_commits=true&count_private=true&role=ORGANIZATION_MEMBER,COLLABORATOR&hide_border=true&hide_title=true&text_color=797979&ring_color=F05138&icon_color=F05138&show=prs_merged,prs_merged_percentage&rank_icon=percentile)](https://github.com/NikKovIos)
+
 # 👋 Hi, I'm Nikolay Savchenko - Full-stack Developer
 
 I have 4+ years of commercial experience in software development with a strong background in backend development.
